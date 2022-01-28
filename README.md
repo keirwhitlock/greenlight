@@ -1,6 +1,6 @@
 # lets-go-further.pdf
 
-Current location: Chapter 8.1.
+Current location: Chapter 8.2.
 
 ```
  go mod init github.com/keirwhitlock/greenlight
